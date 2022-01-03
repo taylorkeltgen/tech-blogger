@@ -42,10 +42,12 @@
 - WHEN I am idle on the site for more than a set time
 - THEN I am able to view comments but I am prompted to log in again before I can add, update, or delete comments
 
+## Heroku Site: (https://ancient-everglades-84131.herokuapp.com/)
 
 ## Screenshot:
 
-- [Picture]()
+<img width="693" alt="Screen Shot 2022-01-02 at 6 39 38 PM" src="https://user-images.githubusercontent.com/88693758/147893459-8c8932b6-89ee-4959-b42f-1fab9cc2503d.png">
+
 
 ## Contributions:
 
